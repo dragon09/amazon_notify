@@ -1,0 +1,16 @@
+{
+  "name": "PriceTracker",
+  "version": "1.0",
+  "description": "This plugin is for tracking price on amazon products.",
+  "background": 
+  {},
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon":"icons/icon128.png"
+  },
+  "manifest_version":2,
+  "permissions": [
+    "tabs",
+	"*://*.localhost:*/*"
+  ]
+}

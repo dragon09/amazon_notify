@@ -1,0 +1,16 @@
+{  "crossrider":{
+  
+    "manifestHostUrl":"http://staging-app.crossrider.com",
+    "manifestHostUrlFallback":"http://staging-app.crossrider.com",
+    "statsHostUrl":"http://stats.statsmyapp.com",
+		"errorHostUrl":"http://errors.statsmyapp.com",
+    "appID":86928,
+		"bgVersion":1,
+    "jsVersion":1,
+    "pluginsVersion":1,
+    "InstallerParams": {"source_id":"0","sub_id":"0","uzid":"0"},
+    "InstallationThankYouPage": false
+    
+  },
+  "writeToLogFile":false
+}
